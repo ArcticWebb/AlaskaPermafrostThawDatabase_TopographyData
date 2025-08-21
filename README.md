@@ -12,7 +12,7 @@ This Google Earth Engine (GEE) script extracts and computes topographic variable
 - Aspect
 - Relative elevation (point elevation minus mean elevation in 100 m buffer)
 - Solar Radiation Index (SRI) at summer solstice noon
-- 
+
 ---
 
 ## Input
