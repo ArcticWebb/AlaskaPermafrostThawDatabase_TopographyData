@@ -15,7 +15,7 @@ This Google Earth Engine (GEE) script extracts and computes topographic variable
 
 ---
 
-## Input
+## Inputs
 - Alaska permafrost thaw database points (shapefile)  
 - ArcticDEM V4, 2 m mosaic
 
